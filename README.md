@@ -36,7 +36,7 @@ https://github.com/medienworx
 
 -----------------------------
 
-### Commercial License
+### Commercial license
 -----------------------------
-you can order a licences for 99 EUR + VAT on support@medienworx.eu
+you can order a licences for 99 EUR + VAT by support@medienworx.eu
 
